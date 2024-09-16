@@ -4,6 +4,11 @@
 <img width="824" alt="repo-screensot" src="https://github.com/user-attachments/assets/d83bddd2-5b57-403a-91da-a6d0940879e4">
 
 ### Activity 2 - Screenshots
+Page Screenshot:
+<img width="758" alt="a2page-1" src="https://github.com/user-attachments/assets/5ac00ab5-4240-40ba-b582-47e7936cb04c">
+
+Repo Screenshot:
+<img width="750" alt="a2-repo" src="https://github.com/user-attachments/assets/9c97e820-20f8-484e-8cef-80c881834b16">
 
 
 # Personal Portfolio ⚡️ 
