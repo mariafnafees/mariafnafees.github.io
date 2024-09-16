@@ -1,7 +1,9 @@
 # PRA1
 
-### Activity 1 Screenshot
+### Activity 1 - Screenshot
 <img width="824" alt="repo-screensot" src="https://github.com/user-attachments/assets/d83bddd2-5b57-403a-91da-a6d0940879e4">
+
+### Activity 2 - Screenshots
 
 
 # Personal Portfolio ⚡️ 
