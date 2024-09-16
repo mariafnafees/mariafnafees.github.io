@@ -1,3 +1,9 @@
+# PRA1
+
+### Activity 1 Screenshot
+<img width="824" alt="repo-screensot" src="https://github.com/user-attachments/assets/d83bddd2-5b57-403a-91da-a6d0940879e4">
+
+
 # Personal Portfolio ⚡️ 
 > NOTE: This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
 
