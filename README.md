@@ -17,6 +17,13 @@ Page Screenshot:
 Repo Screenshot:
 <img width="751" alt="a3-repo" src="https://github.com/user-attachments/assets/84982a64-2a5e-4a7c-96fe-4f0c864e0ce4">
 
+### Activity 4 - Screenshots
+Page Screenshot:
+<img width="823" alt="a4page-1" src="https://github.com/user-attachments/assets/9545af61-788f-4529-992b-492bba2ce4ec">
+
+Repo Screenshot:
+<img width="823" alt="a4-repo" src="https://github.com/user-attachments/assets/fbb093f3-a203-4c20-b75f-418675a72124">
+
 
 # Personal Portfolio ⚡️ 
 > NOTE: This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
