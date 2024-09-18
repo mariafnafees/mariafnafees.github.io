@@ -588,12 +588,14 @@
       title: 'GIS System',
       image: '/assets/img/gis_maps.png',
       description: 'GIS interface design using C++',
+      date: '2023-02-15',
       accomplishments: [
+        'Date: 2023-02-15',
         'Uses OpenStreetMap API, OpenGL API, Glade Interface Designer, and GTK software to create interface and map graphics.',
         'Navigation features utilize BFS, Dijkstra’s algorithm, and A* algorithm for pathfinding.'
       ],
       links: {
-        viewOnline: 'https://drive.google.com/file/d/15HalgkTxpgtJjDCOx71M9cri1MlC_Fto/view?usp=sharing',
+        viewOnline: 'https://drive.google.com/file/d/16HalgkTxpgtJjDCOx71M9cri1MlC_Fto/view?usp=sharing',
         github: 'https://github.com/'
       }
     },
@@ -601,7 +603,9 @@
     title: 'FPGA Video Game',
       image: '/assets/img/game_plane.png',
       description: 'Videogame design in C on DE1-SoC FPGA',
+      date: '2023-04-10',
       accomplishments: [
+        'Date: 2023-04-10',
         'Complete design of videogame “Mission Control” in C language running on DE1-SoC FPGA board and VGA monitor display.',
         'Smooth rendering of graphics on VGA monitor through the use of double buffering and DMA controller.',
         'Videogame is designed to take user-input from keyboard keys and DE1-SoC board switches, game score updates live while user is playing.'
@@ -615,7 +619,9 @@
     title: 'Local LLM Finetuning',
       image: '/assets/img/llm.png',
       description: 'Finetuning local LLM',
+      date: '2024-06-20',
       accomplishments: [
+        'Date: 2024-06-20',
         'Fine tuning local open source LLM to have it answer queries regarding specific knowledge and information.',
         'Using GPT-2 Model to finetune.',
         'Used pythorch, sklearn and pandas libraries.'
@@ -626,6 +632,9 @@
       }
     },
   ];
+
+  // sorting the projects by date now
+  projects.sort((a, b) => new Date(b.date) - new Date(a.date));
 
   let displayedProjects = 0;
   const projectsPerLoad = 1; // Number of projects to load at a time (Can change -> if want to load more)
